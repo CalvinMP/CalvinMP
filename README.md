@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @CalvinMP
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning java, PHP, HTML, CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python, C++
 
 <!---
 CalvinMP/CalvinMP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
